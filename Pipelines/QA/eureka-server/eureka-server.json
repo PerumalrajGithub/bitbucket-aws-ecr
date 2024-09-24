@@ -1,6 +1,0 @@
-[
-  {
-    "name": "eureka-server",
-    "imageUri": "YOUR-IMAGE-IN-ECR"
-  }
-]
